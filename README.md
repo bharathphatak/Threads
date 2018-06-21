@@ -1,12 +1,9 @@
 # Threads
-I dont think you need to pass AtomicInterger. Check mad
-
-
-OUtPUT
 
 
 
-Check Mado HARRIIIIISSSSSSHHHHHHHH
+Output
+
 Thread[Thread 0,5,main]  1
 Thread[Thread 1,5,main]  2
 Thread[Thread 2,5,main]  3
