@@ -1,6 +1,10 @@
 # Threads
+I dont think you need to pass AtomicInterger. Check mad
+
 
 OUtPUT
+
+
 
 Check Mado HARRIIIIISSSSSSHHHHHHHH
 Thread[Thread 0,5,main]  1
